@@ -7,3 +7,4 @@
 ###  
 - وصلت Level 2 في TryHackMe 
 - اخدت شارة First Mobile Quiz 
+I just completed Careers in Cyber  room on TryHackMe! Learn about the different careers in cyber security. https://tryhackme.com/room/careersincyber5zy1sk0al
