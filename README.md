@@ -4,6 +4,7 @@
 | الغرفة | النسبة | الحالة | 
 | --- | --- | --- |
 | Complete Beginner | 0% | 🚀 لسه ما بديت |
+|different careers |100% | 4 room |
 ###  
 - وصلت Level 2 في TryHackMe 
 - اخدت شارة First Mobile Quiz 
